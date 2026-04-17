@@ -6,7 +6,7 @@ def calculate_sum(n):
     return sum(range(1, n + 1))
 
 
-number = 10
-result = calculate_sum(number)
+NUMBER = 10
+RESULT = calculate_sum(NUMBER)
 
-print("The total sum is:", result)
+print("The total sum is:", RESULT)
