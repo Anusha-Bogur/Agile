@@ -1,6 +1,6 @@
 """Program to calculate the sum of first N natural numbers"""
 
-number = int(input("Enter a number: "))
+number = 10
 
 total = 0
 
